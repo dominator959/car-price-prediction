@@ -1,11 +1,10 @@
-cat > README.md << 'EOF'
 # 🚗 Car Price Prediction
 
 A machine learning project to predict used car prices scraped from PakWheels.
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 car-price-prediction/
 ├── data/
 │   └── raw/          # Raw scraped data
@@ -16,13 +15,13 @@ car-price-prediction/
 ├── models/           # Trained model files (gitignored)
 ├── requirements.txt
 └── README.md
-\`\`\`
+```
 
 ## 🔧 Setup
 
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## 📓 Notebooks
 
@@ -35,4 +34,3 @@ pip install -r requirements.txt
 ## 🛠 Tech Stack
 
 Python · Pandas · Scikit-learn · Matplotlib · Seaborn
-EOF
