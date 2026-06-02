@@ -33,4 +33,4 @@ pip install -r requirements.txt
 
 ## 🛠 Tech Stack
 
-Python · Pandas · Scikit-learn · Matplotlib · Seaborn
+Python · Pandas · Scikit-learn · Matplotlib · Seaborn · Jupyter-Notebook
